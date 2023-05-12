@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beinawair
 - 👀 I’m interested in Fontend Development
-- 🌱 I’m currently learning Javascript & ReactJS
+- 🌱 I’m currently Optimizing my skill in Javascript, ReactJS & NextJS
 - 💞️ I’m looking to collaborate on Frontend Development Project
 - 📫 How to reach me visit my website https://beinawair.com/
 
